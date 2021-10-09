@@ -1,4 +1,5 @@
-const findTheOldest = function() {
+const findTheOldest = function(people) {
+    let age = 0; 
 
 };
 
